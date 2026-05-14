@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p /Users/lucaspadden/Projects/claude-skills/.claude/skills/save-chat /Users/lucaspadden/Projects/claude-skills/.claude/skills/update-readme)",
+      "Bash(cp /Users/lucaspadden/Projects/claude-skills/save-chat.md /Users/lucaspadden/Projects/claude-skills/.claude/skills/save-chat/SKILL.md)",
+      "Bash(cp /Users/lucaspadden/Projects/claude-skills/update-readme.md /Users/lucaspadden/Projects/claude-skills/.claude/skills/update-readme/SKILL.md)"
+    ],
+    "additionalDirectories": [
+      "/Users/lucaspadden/Projects/claude-skills/.claude/skills"
+    ]
+  }
+}
